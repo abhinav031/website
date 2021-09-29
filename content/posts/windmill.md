@@ -1,6 +1,6 @@
 +++
 title = "Windmill"
-date = "202-09-17"
+date = "2021-01-24"
 author = "Abhinav"
 cover = "img/windmill.png"
 description = "A windmill in the hills."

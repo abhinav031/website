@@ -1,6 +1,6 @@
 +++
 title = "Animated Windmill"
-date = "202-09-29"
+date = "2021-01-25"
 author = "Abhinav"
 cover = "img/windmill-anim.gif"
 description = "My first attempt at animating"

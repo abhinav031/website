@@ -1,6 +1,6 @@
 +++
 title = "The Planet Uranus"
-date = "202-09-17"
+date = "2021-01-30"
 author = "Abhinav"
 cover = "img/uranus.png"
 description = "The planet Uranus"
